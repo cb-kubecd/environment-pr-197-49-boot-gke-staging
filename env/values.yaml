@@ -13,7 +13,7 @@ expose:
   - --v
   - 4
   config:
-    domain: 34.76.44.111.nip.io
+    domain: 104.155.1.143.nip.io
     exposer: Ingress
     http: "true"
     tlsacme: "false"
